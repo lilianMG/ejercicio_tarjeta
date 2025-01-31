@@ -1,0 +1,30 @@
+/* selector universal */
+*{
+    color: blueviolet;
+}
+
+/*selector de etiqueta */
+h1{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    background-color: bisque;
+    font-size: 40px;
+}
+
+/*selector de clase */
+.blanco{
+    background-color: azure;
+}
+
+/*selector de ID*/
+#gato{
+    color:black;
+    background-color:chartreuse;
+    font-weight: bold;
+}
+.test h2{
+    color: rebeccapurple;
+}

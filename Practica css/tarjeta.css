@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+    font-family: cursive;
+}
+
+h1{
+    color: brown;
+    font-size: 16px;
+}
+
+p{
+    color: orangered;
+    font-size: 10px;
+}
+
+#card{
+    background-color: white;
+    padding: 20px;
+    box-shadow: 3px 1px 5px black;
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
+.highlight{
+    background-color: olivedrab;
+}
